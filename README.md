@@ -1,2 +1,3 @@
-# Lab_VueJs_Chatnarong
-Created with CodeSandbox
+# vuetify-codesandbox
+
+Vuetify template to use on CodeSandbox projects
